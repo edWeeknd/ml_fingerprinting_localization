@@ -24,4 +24,5 @@ In the project, 3 machine learning algorithms were used as matching algorithms f
 
 ## Summary
 From the acquired results, XGBoost gives the best performance for 5G NSA, while Random Forest is the most suitable for LTE Cat-M and NB-IoT. SVM performs well for the self validation data, but doesn't do so well in the cross check.
+
 **Note:** The fully connected NN was also implemented with various network architectures and hyperparameter, namely: Number of layer, number of nodes in a layer, activation functions, and number of epochs (see result.xlsx/Fully connected NN). However, the NN performed very poorly and the results it produced proved to be unusable (negative R^2 score). The reason could be the large number of features in the dataset, and the fact that most of the features have the same "0.0" value for most of the time. This makes the neurons in the NN unable to learn from the data effectively.
