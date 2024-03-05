@@ -7,7 +7,7 @@ In the project, 3 machine learning algorithms were used as matching algorithms f
 
 | XGBoost           |             |             |             |  | Random Forest     | n_estimators=10,random_state=10 |             |             |  | SVM               |             |             |             |
 |-------------------|-------------|-------------|-------------|--|-------------------|---------------------------------|-------------|-------------|--|-------------------|-------------|-------------|-------------|
-| Technology        | 5G NSA      | Cat-M       | NB-IoT      |  | Technology        | 5G NSA                          | Cat-M       | NB-IoT      |  | Technology        | 5G NSA      | Cat-M       | NB-IoT      |
+| **Technology**        | **5G NSA**      | **Cat-M**       | **NB-IoT**      |  | Technology        | 5G NSA                          | Cat-M       | NB-IoT      |  | Technology        | 5G NSA      | Cat-M       | NB-IoT      |
 | Average error [m] | 401.03993   | 826.48999   | 570.22508   |  | Average error [m] | 57.08174                        | 131.92023   | 133.50993   |  | Average error [m] | 293.24933   | 277.46583   | 280.95731   |
 | Max error [m]     | 4131.679124 | 7058.248764 | 2886.519097 |  | Max error [m]     | 3122.097525                     | 7893.39568  | 2666.914154 |  | Max error [m]     | 5795.870015 | 6403.985885 | 3807.681173 |
 | Min error [m]     | 2.390409724 | 11.25814159 | 17.34044608 |  | Min error [m]     | 0                               | 0           | 0           |  | Min error [m]     | 0.134258786 | 3.552153589 | 2.941462624 |
