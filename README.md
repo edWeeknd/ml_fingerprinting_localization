@@ -3,6 +3,8 @@
 This is the repository for the machine-learning-based fingerprinting localization project.
 In the project, 3 machine learning algorithms were used as matching algorithms for the fingerprinting dataset. The results are shown below.
 
+## Results
+
 | XGBoost           |             |             |             |  | Random Forest     | n_estimators=10,random_state=10 |             |             |  | SVM               |             |             |             |
 |-------------------|-------------|-------------|-------------|--|-------------------|---------------------------------|-------------|-------------|--|-------------------|-------------|-------------|-------------|
 | Technology        | 5G NSA      | Cat-M       | NB-IoT      |  | Technology        | 5G NSA                          | Cat-M       | NB-IoT      |  | Technology        | 5G NSA      | Cat-M       | NB-IoT      |
